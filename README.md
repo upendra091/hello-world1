@@ -1,2 +1,4 @@
 # hello-world1
-Just another repo
+Hello Humans,
+
+This bot is written to get a better understanding of Git.
